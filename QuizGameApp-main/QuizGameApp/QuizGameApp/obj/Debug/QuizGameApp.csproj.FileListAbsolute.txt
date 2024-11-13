@@ -1,0 +1,78 @@
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe.config
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.pdb
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\Guna.UI2.dll
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.AssemblyReference.cache
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.Properties.Resources.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.WelcomeForm.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.GenerateResource.cache
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.CoreCompileInputs.cache
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGame.CE3A2D39.Up2Date
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.exe
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.pdb
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.LoginForm.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.dll
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\MySql.Data.dll
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.xml
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.MainForm.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.StudentMainForm.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateNewGame.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.QuestionManage.resources
+C:\Users\FTC Laptop\source\repos\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateQuestion.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe.config
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.pdb
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\MySql.Data.dll
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateNewGame.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateQuestion.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.LoginForm.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.MainForm.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.Properties.Resources.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.QuestionManage.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.StudentMainForm.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.UpdateQuestion.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.WelcomeForm.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGame.CE3A2D39.Up2Date
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.exe
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.pdb
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.UpdateGame.resources
+C:\Users\PC\Downloads\QuizGameAppFinal\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.SelectGame.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.AssemblyReference.cache
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateNewGame.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.CreateQuestion.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.LoginForm.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.MainForm.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.Properties.Resources.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.QuestionManage.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.SelectGame.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.StudentMainForm.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.UpdateGame.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.UpdateQuestion.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.WelcomeForm.resources
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.GenerateResource.cache
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.csproj.CoreCompileInputs.cache
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.exe
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGameApp.pdb
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe.config
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.exe
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\QuizGameApp.pdb
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.dll
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\Guna.UI2.dll
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\MySql.Data.dll
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.xml
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FTC Laptop\Downloads\QuizGameApp-main\QuizGameApp-main\QuizGameApp\QuizGameApp\obj\Debug\QuizGame.CE3A2D39.Up2Date
